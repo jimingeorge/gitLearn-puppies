@@ -1,2 +1,2 @@
 # gitLearn-puppies
-Learning git. Ading puppies to commit
+Learning git. Adding puppies to commit
